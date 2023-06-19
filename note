@@ -1,0 +1,21 @@
+
+// text to gradient 
+
+<p class="bg-gradient-to-r text-transparent bg-clip-text from-lightBlue to-lightBlue hover:from-purple-500 hover:to-lightBlue">
+  Hover over this text to see the gradient effect.
+</p>
+#9957f5 purple
+
+
+ <defs>
+            <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" style="stop-color: #0b72e7;" />
+              <stop offset="100%" style="stop-color:#9957f5 ;" />
+            </linearGradient>
+          </defs>
+
+
+          transition-all transform hover:scale-110
+
+
+          1056b4
